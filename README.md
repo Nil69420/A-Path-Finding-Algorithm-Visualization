@@ -81,7 +81,7 @@ _For more examples, please refer to the [Documentation](https://www.geeksforgeek
 Now we need to visualize it and luckily for us Python 3.7 has such a library ~~no not tkiner i hate tkinter~~ called Pygames. For some reason Pygames just wasn't there in 3.9 idk.
 
 <p align="left">
-  <img width="460" height="300" src="Images/Empty.png">
+  <img width="460" height="300" src="Images/Empty.PNG">
 </p>
 
 
@@ -93,37 +93,37 @@ This section walks you through the process of using the code:
 Run main.py and you will see this window pop up.
 
 <p align="left">
-  <img width="460" height="300" src="Images/Empty.png">
+  <img width="460" height="300" src="Images/Empty.PNG">
 </p>
 
 Left Click anywhere on the window to select start node and end node.
 
 <p align="left">
-  <img width="460" height="300" src="Images/Start end.png">
+  <img width="460" height="300" src="Images/Start end.PNG">
 </p>
 
 Add barriers using the left mouse button.
 
 <p align="left">
-  <img width="460" height="300" src="Images/barrier.png">
+  <img width="460" height="300" src="Images/barrier.PNG">
 </p>
 
 Use right mouse button to remove barriers and change nodes.
 
 <p align="left">
-  <img width="460" height="300" src="Images/remove barrier.png">
+  <img width="460" height="300" src="Images/remove barrier.PNG">
 </p>
 
 Hit 'SPACE' to run.
 
 <p align="left">
-  <img width="460" height="300" src="Images/pog.png">
+  <img width="460" height="300" src="Images/pog.PNG">
 </p>
 
 Hit 'C' to clear the board.
 
 <p align="left">
-  <img width="460" height="300" src="Images/Empty.png">
+  <img width="460" height="300" src="Images/Empty.PNG">
 </p>
 
 
