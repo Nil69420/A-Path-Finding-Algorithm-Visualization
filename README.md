@@ -1,7 +1,4 @@
 
-
-
-
 <div align="center">
 
   <h1 align="center">A* PATH FINDING ALGORITHM VISUALIZATION USING PYGAMES</h1>
