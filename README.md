@@ -60,13 +60,13 @@ g = the movement cost to move from the starting point to a given square on the g
 h = the estimated movement cost to move from that given square on the grid to the final destination. This is often referred to as the heuristic, which is nothing but a kind of smart guess.
 
 <p align="left">
-  <img width="460" height="300" src="images/a-star-ques-e1547134645748.png">
+  <img width="460" height="300" src="Images/a-star-ques-e1547134645748.png">
 </p>
 
 Starting from S, the algorithm computes g(x) + h(x) for all nodes in the fringe at each step, choosing the node with the lowest sum.
 
 <p align="left">
-  <img width="460" height="300" src="images/graph-ans-e1547141422493.png">
+  <img width="460" height="300" src="Images/graph-ans-e1547141422493.png">
 </p>
 
 Path: S -> D -> B -> C -> E -> G 
@@ -81,7 +81,7 @@ _For more examples, please refer to the [Documentation](https://www.geeksforgeek
 Now we need to visualize it and luckily for us Python 3.7 has such a library ~~no not tkiner i hate tkinter~~ called Pygames. For some reason Pygames just wasn't there in 3.9 idk.
 
 <p align="left">
-  <img width="460" height="300" src="images/Empty.png">
+  <img width="460" height="300" src="Images/Empty.png">
 </p>
 
 
@@ -93,37 +93,37 @@ This section walks you through the process of using the code:
 Run main.py and you will see this window pop up.
 
 <p align="left">
-  <img width="460" height="300" src="images/Empty.png">
+  <img width="460" height="300" src="Images/Empty.png">
 </p>
 
 Left Click anywhere on the window to select start node and end node.
 
 <p align="left">
-  <img width="460" height="300" src="images/Start end.png">
+  <img width="460" height="300" src="Images/Start end.png">
 </p>
 
 Add barriers using the left mouse button.
 
 <p align="left">
-  <img width="460" height="300" src="images/barrier.png">
+  <img width="460" height="300" src="Images/barrier.png">
 </p>
 
 Use right mouse button to remove barriers and change nodes.
 
 <p align="left">
-  <img width="460" height="300" src="images/remove barrier.png">
+  <img width="460" height="300" src="Images/remove barrier.png">
 </p>
 
 Hit 'SPACE' to run.
 
 <p align="left">
-  <img width="460" height="300" src="images/pog.png">
+  <img width="460" height="300" src="Images/pog.png">
 </p>
 
 Hit 'C' to clear the board.
 
 <p align="left">
-  <img width="460" height="300" src="images/Empty.png">
+  <img width="460" height="300" src="Images/Empty.png">
 </p>
 
 
